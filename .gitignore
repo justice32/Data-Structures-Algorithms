@@ -1,0 +1,10 @@
+# Ignore the directory where Rust outputs compilation artifacts
+/target/
+
+# Ignore editor/IDE-specific files
+.idea/
+.vscode/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
